@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 👋 I'm Zain Waseem, a top-rated seller on Fiverr
 
 ## Portfolio
 
-Check out my portfolio: [https://zaini.vercel.app](https://zaini.vercel.app)
+Check out my portfolio: [Zain Waseem](https://zaini.vercel.app)
 
 ## Experience
 
@@ -18,13 +18,16 @@ Check out my portfolio: [https://zaini.vercel.app](https://zaini.vercel.app)
 Here are some of my notable projects:
 
 1. [Humanitarium](https://humanitarium.com)
-   - Description: [Brief project description]
+
 
 2. [LazySMS](https://lazysms.com)
-   - Description: [Brief project description]
+
+
+2. [cellercertified](https://www.cellercertified.com)
+
 
 3. [Omla.io](https://omla.io)
-   - Description: [Brief project description]
+
 
 Feel free to explore these projects and provide feedback!
 
