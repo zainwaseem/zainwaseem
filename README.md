@@ -10,8 +10,8 @@ Check out my portfolio: [Zain Waseem](https://zaini.vercel.app)
 
 ## Experience
 
-- **Freelancing:** 2 years of top-rated freelancing on Fiverr.
-- **MERN Stack Development:** 3 years of hands-on experience.
+- **MERN Stack Development:** 3 years of Industry experience.
+- **Freelancing:** 2 years of as a top-rated freelancing Experience.
 
 ## Projects
 
