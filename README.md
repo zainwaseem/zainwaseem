@@ -1,4 +1,4 @@
-I am Zain Waseem, I have 5 years of experience in full-stack development and currently working at Superwise Solutions.
+I am Zain Waseem, a Senior Software Engineer, Cloud Architect, DevOps engineer, and Full-Stack Web and Mobile App Developer with 7 years of experience in DevOps and Full-Stack development.
 
 
 ## 🌐 Socials:
