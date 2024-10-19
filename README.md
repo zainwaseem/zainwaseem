@@ -1,4 +1,3 @@
-# 💫 About Me:
 I am Zain Waseem, I have 5 years of experience in full-stack development and currently working at Superwise Solutions.
 
 
